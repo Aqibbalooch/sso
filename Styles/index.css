@@ -1,0 +1,25 @@
+.header-note {
+  padding-top: 10px;
+  font-weight: 700;
+  font-size: 50px;
+  text-align: center;
+}
+
+.airline-container {
+  margin-top: 25px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  border-radius: 5px;
+}
+
+.anchor-container {
+  padding: 10px;
+}
+
+.anchor {
+  color: black;
+  font-weight: 500;
+}
